@@ -1,0 +1,18 @@
+Nemesis Program List
+PG Num,Description,“Time” pot,“Feedback” pot,Tap
+1,Delay (1/4 Note Triplet),Delay Time,Feedback,Yes
+2,Delay (1/8 Note),Delay Time,Feedback,Yes
+3,Delay (1/4 Note),Delay Time,Feedback,Yes
+4,Delay (Dotted 1/8th),Delay Time,Feedback,Yes
+5,Delay w/Modulation (Dotted 1/8th),Delay Time,Feedback,Yes
+6,Delay w/Modulation (1/4 Note),Delay Time,Feedback,Yes
+7,Delay w/Modulation (1/8 Note),Delay Time,Feedback,Yes
+8,Delay w/Modulation (1/4 Note Triplet),Delay Time,Feedback,Yes
+9,Spring Reverb Type 4,Reverb Decay Time,n/a,No
+10,Spring Reverb Type 9,Reverb Decay Time,n/a,No
+11,Plate Reverb,Reverb Decay Time,n/a,No
+12,Room Reverb,Reverb Decay Time,n/a,No
+13,Chorus,Chorus Depth,Chorus Rate,No
+14,Chorus -> Reverb,Reverb Decay Time,Chorus Rate,No
+15,Hall Reverb,Reverb Decay Time,n/a,No
+16,Ambience Reverb,Reverb Decay Time,n/a,No
