@@ -1,0 +1,64 @@
+ID,Name,Designator,Footprint,Quantity,Manufacturer Part,Location
+7,standoff,,1/4” 4-40,3,https://www.mouser.com/ProductDetail/761-2053-440-AL-7,"FRONT, AUDIO, MAIN"
+8,screw,,3/16” 4-40,6,,"FRONT, AUDIO, MAIN"
+15,8mm-7-segment,"U14L, U14R **USE 2mm FEMALE HEADERS AS SOCKETS**",8MM-7-SEGMENT,2,https://www.mouser.com/ProductDetail/broadcom-limited/hdsp-u111/?qs=pQfy5%252bKCabLnjjJ7NCMY5A%3D%3D&countrycode=US&currencycode=USD,FRONT
+21,A100K,VR3,9MM_SNAP-IN_POT,1,T-18 shaft,FRONT
+20,B100K,"VR1, VR2, VR4",9MM_SNAP-IN_POT,3,T-18 shaft,FRONT
+,Big Knob,,Big Knob,1,https://www.newark.com/ehc-electronic-hardware/3010-2-b/round-knurled-knob-6-35mm/dp/91F2246?ost=91f2246,
+14,Bourns Rotary Encoder PAC18R,U13,BOURNS-ROTARY-PAC18R,1,http://www.mouser.com/ProductDetail/bourns/pac18r1-43d19f/?qs=IS%252b4QmGtzzoiPnRwlkZJXA%3d%3d&countrycode=US&currencycode=USD,FRONT
+1,0.1u,"C20, C21, C22, C25, C26, C27, C28, C5, C10, C12, C13, C57, C58, C1, C2, C18, C19, C30, C31, C33, C34, C42, C59, C60, C71, C72, C73, C76, C77",C0805,29,,"FRONT, AUDIO, MAIN"
+5,1.2nF,"C62, C63, C65, C67, C74, C75",C0805,6,,MAIN
+3,100pF,"C29, C32, C49, C54, C69, C70",C0805,6,,MAIN
+5,10uF,C11,C0805,1,,AUDIO
+4,130pF C0G,C8,C0805,1,,AUDIO
+2,1uF,"C160, C15, C16",C0805,3,,"FRONT, MAIN"
+7,22pF,"C3, C14, C17, C23, C24, C36, C37, C38, C39, C40, C201, C202, C203, C204, C205",C0805,15,,"AUDIO, MAIN"
+3,510pF,C7,C0805,1,,AUDIO
+1,10uF,"C4, C9, C35, C47, C48",CAP-D5.0XF2.0,5,https://www.mouser.com/ProductDetail/panasonic/ece-a1vks100/?qs=rMMd5vBiahq3ETb1IXG1mg%3D%3D&countrycode=US&currencycode=USD,"AUDIO, MAIN"
+2,10uF BP,"C6, C61, C64, C66, C68",CAP-D5.0XF2.0,5,http://www.mouser.com/ProductDetail/nichicon/ump1e100mdd1tp/?qs=VQuiV1cVcb9d32Ax6dNNDQ%3d%3d&countrycode=US&currencycode=USD,"AUDIO, MAIN"
+9,1N5819,"D99, D100",DO-41,2,,MAIN
+12,IDC Box 2.54mm 2X5P,P4,EURO_PWR_HEADER_LOCK,1,,MAIN
+10,Ferrite,"F7, F8",Ferrite Bead,2,,MAIN
+3,X4611WV-05I-C28D40,"H1, H2, H4, H5, H8, H9, H11, H12 **PLUS FOUR AS SOCKETS FOR THE 7-SEGMENT LED DISPLAYS**",HDR-TH_5P-P2.00-V-F,12,https://www.taydaelectronics.com/connectors-sockets/pin-headers/5-pin-2-00-mm-single-row-female-pin-header.html,"FRONT, AUDIO"
+11,X4611WV-05I-C28D40,"H1, H2, H4, H5, H8, H9, H11, H12",HDR-TH_5P-P2.00-V-M,8,https://www.taydaelectronics.com/connectors-sockets/pin-headers/40-pin-2-00-mm-single-row-pin-header-strip.html,MAIN
+5,LED_2X5MM_BICOLOR-CMN-CAT,LED7,KINGBRIGHT-WP119EGWT-2X5-BICOLOR-LED,1,https://www.mouser.com/ProductDetail/Kingbright/WP119EGWT?qs=DkZGzo4b%252BTL9k4hr3wAL0g%3D%3D,FRONT
+4,LED-TH-3mm_R,LED3,LED-TH_BD3.0_RED,1,any 3mm LED — R5 is the LED resistor & can be adjusted for non-red values,FRONT
+12,SPST MOMENTARY TAYDA,SW1,MOMENTARY-SW-TAYDA,1,https://www.taydaelectronics.com/pb-11d02-push-button-panel-mount-spst-no-pb-11d02-th1r00.html,FRONT
+22,10k,VR7,PV36W-MULTITURN-TRIMMER,1,https://www.mouser.com/ProductDetail/Bourns/PV36W102C01B00?qs=%2Fha2pyFaduhp5WeufffrKNuEvN8l9b7d%252B%2FHpr1Gu%2FrDSO7Pl83%252BOcg%3D%3D,FRONT
+17,10.7k,R23,R0805,1,,AUDIO
+21,100k,"R50, R54, R56, R59, R61, R63, R64, R65, R68, R80, R81, R83, R110, R111, R126, R127, R128, R129, R130, R133, R134, R135, R137, R140, R141",R0805,25,,MAIN
+11,10k,"R28, R46, R47, R48, R49, R25, R26, R27, R29, R31, R58, R70, R52, R55, R120, R121, R122, R123, R124, R125",R0805,20,,"FRONT, AUDIO, MAIN"
+14,115k,R7,R0805,1,,MAIN
+20,12k,"R109, R138",R0805,2,,MAIN
+10,150R,R1,R0805,1,,AUDIO
+15,15k,"R20, R21",R0805,2,,AUDIO
+16,19.1k,"R22, R24",R0805,2,,AUDIO
+20,1k,"R74, R75, R76, R77",R0805,4,,AUDIO
+11,20k,"R2, R112, R115, R117, R119",R0805,5,,"AUDIO, MAIN"
+23,220R,"R113, R114, R116, R118, R132, R136",R0805,6,,MAIN
+8,249R,"R3, R66",R0805,2,,"FRONT, MAIN"
+10,2k,"R5, R9, R10, R11, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45",R0805,18,,FRONT
+13,3.3k,"R12, R13, R14, R15",R0805,4,,AUDIO
+18,47k,"R30, R71, R72, R73, R53, R60, R131",R0805,7,,"AUDIO, MAIN"
+9,499R,"R4, R78, R79",R0805,3,,"FRONT, AUDIO"
+12,5.1R,R8,R0805,1,,AUDIO
+14,6.8k,"R16, R17, R18, R19",R0805,4,,AUDIO
+16,68k,"R51, R57, R62, R67, R69, R82",R0805,6,,MAIN
+13,69.8k,R6,R0805,1,,MAIN
+19,750R,R84,R0805,1,,MAIN
+15,slim knobs,,Slim T-18 Knob,4,https://www.thonk.co.uk/shop/tall-trimmer-toppers/,FRONT
+24,TL072_SMD,"U5, U8",SO08,2,,"AUDIO, MAIN"
+22,NEMFXSRC-RDC1,U1,SO28-W,1,https://www.profusionplc.com/parts/nemfxsc-rdc1-so,AUDIO
+8,1N4148,"D7, D8, D3, D4, D5, D6, D11, D12",SOD-80_L3.5-W1.5-FD,8,,"AUDIO, MAIN"
+13,CD40106BM96,U11,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,1,,FRONT
+16,CD4070BM96,U15,SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,1,,FRONT
+25,TL074_SMD,"U3, U6, U7",SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL,3,,MAIN
+17,74HC283,"U16, U17",SOIC-16_150MIL,2,,FRONT
+18,74LS47,"U12, U18",SOIC-16_L10.0-W6.2-H1.75-PITCH1.27-BL,2,,FRONT
+23,OPA2376AID,"U4, U2",SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL,2,http://www.mouser.com/ProductDetail/texas-instruments/opa2376aidrg4/?qs=IUbkBnfnSQIcJ9njy8NzUg%3d%3d&countrycode=US&currencycode=USD,"AUDIO, MAIN"
+28,LM337LMX,U30,SOP-8_L5.0-W4.0-P1.27-LS6.2-BL,1,http://www.mouser.com/ProductDetail/texas-instruments/lm337lmx-nopb/?qs=X1J7HmVL2ZEfGq9ogMIXhw%3d%3d&countrycode=US&currencycode=USD,MAIN
+7,BC847,"Q1, Q2, Q4",SOT-23-3_L2.9-W1.3-P1.90-LS2.4-TR,3,,FRONT
+19,AP2210K-ADJTRG1,"U35, U32",SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR,2,https://www.mouser.com/ProductDetail/Diodes-Incorporated/AP2210K-ADJTRG1?qs=%2Fha2pyFaduhAZ%2Ft%2FR2Upz6O0IoxxGj83LNLfXzb3KABbD7TS%2FRe8%2Fg%3D%3D,"FRONT, MAIN"
+27,SSI2164 SOIC-16,"U9, U10",SSI2164,2,https://www.electro-smith.com/parts/2164-quad-vca-ic-smt,MAIN
+6,THONKICONN,"IN, OUT-LEFT, OUT-RIGHT, TAP-CV, W-D-MIX, CV1, CV2",THONKICONN-TIGHT,7,Thonk or https://www.taydaelectronics.com/hardware/3-5mm-plugs-jacks/pj-3001f-3-5-mm-mono-phone-jack.html,FRONT
+29,MC7805BDTRKG,U31,TO-252-2_L6.6-W6.1-P4.57-LS9.9-TL-CW,1,https://www.mouser.com/ProductDetail/ON-Semiconductor/MC7805BDTRKG?qs=%2Fha2pyFaduiJYHR4QkCriaZGg8GZQP6DG2d5Lp6piQNf8B83g3bkOA%3D%3D,MAIN
