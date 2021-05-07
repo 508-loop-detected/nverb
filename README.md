@@ -20,3 +20,5 @@ Main features:
 Note: The NemFX chip is not recommended for new designs, i.e. it's discontinued, but the distributor has them in stock as of this writing -- check before trying to order boards or other parts!
 
 This module, like many of my modules, uses 2mm-pitch male/female headers. Be sure you order/use the right thing!
+
+PCB + Panel set available for sale here: https://508.loopdetected.net/product/nverb-pcb-panel-set/
